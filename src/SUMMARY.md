@@ -1,0 +1,17 @@
+# Summary
+
+- [Inherited (paveldimos) ir non-inherited (nepaveldimos) properties (savybės)](./inherited_and_computed_props.md)
+- [Media query (responsive design)](media_query.md)
+- [box-sizing](box_sizing.md)
+- [Užduotis 1](practice1.md)
+- [CSS3 kas tai yra?](./css3_what_it_is.md)
+- [Naujos CSS3 savybės (ang. properties)?](./css3_new_properties.md)
+- [CSS3 flexible box layout (lankčios dėžutės išdėstymas :D)](./css3_flex_box_layout.md)
+- [CSS3 flex-direction](./css3_flex-direction.md)
+- [CSS3 flex-wrap](./css3_flex-wrap.md)
+- [CSS3 order (flex kontekste)](./css3_order.md)
+- [Užduotis 2](./exercise1.md)
+- [CSS3 flex (flex-grow & flex-shrink & flex-basis)](./css3_flex_flex-basis.md)
+- [CSS3 align-items & align-self (flex kontekste)](./css3_align_items_align_self.md)
+- [Daugiau apie flex](./more_about_flex.md)
+- [Užduotis 3](./exercise2.md)
