@@ -37,6 +37,54 @@ Kai naudojamas media ir bendrai rekomenduojama i `head` pridėti tokia eilutę:
 
 tam, kad atidarant tinklapį nebūtų galimybės daryti "zoom" (priartinimo).
 
+---
+```html
+<!doctype html>
+<head>
+  <style>
+    @media (min-width: 800px) {
+      :root {
+        font-size: 16px;
+      }
+    }
+    @media (min-width: 1200px) {
+      :root {
+        font-size: 20px;
+      }
+    }
+
+    body {
+      font-family: Helvetica, Arial, sans-serif;
+    }
+
+    .panel {
+      padding: 20px;
+      border: 1px solid #999;
+      border-radius: 3px;
+    }
+    .panel > h2 {
+      margin-top: 0;
+      font-size: 12px;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="panel">
+    <h2>Single-origin</h2>
+    <div class="body">
+      We have built partnerships with small farms around the world to
+      hand-select beans at the peak of season. We then carefully roast
+      in <a href="#">small batches</a> to maximize their
+      potential.
+    </div>
+  </div>
+</body>
+```
+---
+
 Daugiau informacijos:
 
 [https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
