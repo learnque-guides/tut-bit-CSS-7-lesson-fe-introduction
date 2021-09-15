@@ -42,14 +42,17 @@ tam, kad atidarant tinklapį nebūtų galimybės daryti "zoom" (priartinimo).
 <!doctype html>
 <head>
   <style>
+    :root {
+      font-size: 0.75em;
+    }
     @media (min-width: 800px) {
       :root {
-        font-size: 16px;
+        font-size: 0.875em;
       }
     }
     @media (min-width: 1200px) {
       :root {
-        font-size: 20px;
+        font-size: 1em;
       }
     }
 
@@ -58,13 +61,13 @@ tam, kad atidarant tinklapį nebūtų galimybės daryti "zoom" (priartinimo).
     }
 
     .panel {
-      padding: 20px;
+      padding: 1em;
       border: 1px solid #999;
-      border-radius: 3px;
+      border-radius: 0.5em;
     }
     .panel > h2 {
       margin-top: 0;
-      font-size: 12px;
+      font-size: 0.8rem;
       font-weight: bold;
       text-transform: uppercase;
     }
