@@ -1,4 +1,4 @@
-# Inherited (paveldimos) ir non-inherited (nepaveldimos) properties (savybės)
+# Inherited (paveldimos) ir non-inherited (nepaveldimos) properties (savybės) I
 
 CSS savybės gali būti skirstomos į dvi kategorijas:
 * **inherited** savybės, kurios pagal nutylėjimą turi taip vadinamas paskaičiuotas reikšmės (computed values). Paskaičiuotos reikšmės yra apibrėžiamos kaip reikšmės, kurios perduodamos iš tėvynio (ang. parent), vaikiniam (ang. child) elementui. Tokių CSS savybių pavyzdžiai yra padding, margin, border ir t.t.

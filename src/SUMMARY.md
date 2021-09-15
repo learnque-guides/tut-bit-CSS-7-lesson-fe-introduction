@@ -1,6 +1,7 @@
 # Summary
 
-- [Inherited (paveldimos) ir non-inherited (nepaveldimos) properties (savybės)](./inherited_and_computed_props.md)
+- [Inherited (paveldimos) ir non-inherited (nepaveldimos) properties (savybės) I](./inherited_and_computed_props.md)
+- [Inherited (paveldimos) ir non-inherited (nepaveldimos) properties (savybės) II](./inherited_and_computed_props_2.md)
 - [Media query (responsive design)](media_query.md)
 - [box-sizing](box_sizing.md)
 - [Užduotis 1](practice1.md)
